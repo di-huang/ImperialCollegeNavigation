@@ -28,3 +28,12 @@ https://docs.google.com/document/d/1rhOHfu-7EdammRNkhIX7UwgnOdH3XObB_P6Yzsr-urA/
 **Your CATE**: viewing timetables of classes, etc. <br />
 https://cate.doc.ic.ac.uk/
 
+**Panopto**: recordings of lectures <br />
+https://imperial.cloud.panopto.eu/
+
+**Events**: Introduction to Health and Safety MSc must be completed to receive the college ID card <br />
+https://events.doc.ic.ac.uk/
+
+
+
+
