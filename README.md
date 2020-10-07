@@ -43,5 +43,12 @@ https://teachdb.doc.ic.ac.uk/
 **Piazza**: class discussions (activate your college account via the email sent by Piazza Team) <br />
 https://piazza.com/
 
+**Get Your Timetable** <br />
+https://www.imperial.ac.uk/timetabling/mytimetable/
+
+**Online Timetable** <br />
+https://www.imperial.ac.uk/timetabling/calendar/
+
+
 
 
