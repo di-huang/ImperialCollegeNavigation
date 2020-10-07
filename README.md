@@ -49,6 +49,7 @@ https://www.imperial.ac.uk/timetabling/mytimetable/
 **Online Timetable** <br />
 https://www.imperial.ac.uk/timetabling/calendar/
 
-
+**Blackboard**: completing plagiarism class <br />
+https://bb.imperial.ac.uk/
 
 
