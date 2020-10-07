@@ -22,3 +22,9 @@ https://www.imperial.ac.uk/academic-english/listening-and-speaking/
 **General Timetable for Incoming Postgraduates** <br />
 https://www.imperial.ac.uk/students/new-students/welcome-season/incoming-postgraduates/your-timetable/
 
+**WhatsApp Groups** <br />
+https://docs.google.com/document/d/1rhOHfu-7EdammRNkhIX7UwgnOdH3XObB_P6Yzsr-urA/edit
+
+**Your CATE**: viewing timetables of classes, etc. <br />
+https://cate.doc.ic.ac.uk/
+
