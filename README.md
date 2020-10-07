@@ -55,4 +55,7 @@ https://bb.imperial.ac.uk/
 **Imperial College Health Centre Online Registration** <br />
 https://www.campusdoctor.co.uk/imperial/reg.html
 
+**Applications of Computing in Industry**: seeking for a job <br />
+https://www.imperial.ac.uk/computing/industry/aci/
+
 
