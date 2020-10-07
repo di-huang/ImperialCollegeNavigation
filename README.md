@@ -40,7 +40,8 @@ https://materials.doc.ic.ac.uk/
 **Teaching Database**: student informations, required courses, etc. <br />
 https://teachdb.doc.ic.ac.uk/
 
-**Piazza**: class discussions (activate your college account via the email sent by Piazza Team) <br />
+**Piazza**: class discussions (activate your account via the email sent by Piazza Team) <br />
+https://piazza.com/first_login?token=o0drAegDgX1&mc_id=pw_2
 https://piazza.com/
 
 **Get Your Timetable** <br />
@@ -59,6 +60,6 @@ https://www.campusdoctor.co.uk/imperial/reg.html
 https://www.imperial.ac.uk/computing/industry/aci/
 
 **Microsoft Teams**: Live lectures <br />
-https://teams.microsoft.com/
+https://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/office-365/apps/microsoft-teams/
 
 
