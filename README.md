@@ -52,4 +52,7 @@ https://www.imperial.ac.uk/timetabling/calendar/
 **Blackboard**: completing plagiarism class <br />
 https://bb.imperial.ac.uk/
 
+**Imperial College Health Centre Online Registration** <br />
+https://www.campusdoctor.co.uk/imperial/reg.html
+
 
