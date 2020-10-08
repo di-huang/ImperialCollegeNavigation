@@ -41,8 +41,8 @@ https://docs.google.com/document/d/1rhOHfu-7EdammRNkhIX7UwgnOdH3XObB_P6Yzsr-urA/
 https://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/office-365/apps/microsoft-teams/
 
 **Piazza**: class discussions (activate your account via the email sent by Piazza Team) <br />
-https://piazza.com/first_login?token=o0drAegDgX1&mc_id=pw_2
-https://piazza.com/
+Activation: https://piazza.com/first_login?token=o0drAegDgX1&mc_id=pw_2 <br />
+Home Page: https://piazza.com/ <br />
 
 **Blackboard**: completing plagiarism class <br />
 https://bb.imperial.ac.uk/
