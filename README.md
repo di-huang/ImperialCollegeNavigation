@@ -62,6 +62,7 @@ https://wiki.imperial.ac.uk/display/docteaching/Independent+Study+Option
 
 **MSc Pass/Merit/Distinction Regulations** <br />
 MSc Advanced Computing: https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/current-students-msc-regulations/2020-to-2021/2021-MSc-Advanced-Computing-regulations.pdf <br />
+MSc Artificial Intelligence: https://www.imperial.ac.uk/computing/prospective-students/courses/pg/mai/mai-reg/ <br />
 
 **English Training**: listening and speaking courses <br />
 https://www.imperial.ac.uk/academic-english/listening-and-speaking/
