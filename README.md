@@ -1,6 +1,9 @@
 # Imperial College Navigation (for Postgraduates, 20/21)
 It's a navigation for TONS OF LINKS of Imperial College London. Please feel free to add more via pulling requests.
 
+**DoC Teaching Server** <br />
+https://teaching.doc.ic.ac.uk/
+
 **Your CATE**: viewing timetables of classes, etc. <br />
 https://cate.doc.ic.ac.uk/
 
@@ -21,6 +24,12 @@ https://exams.doc.ic.ac.uk/
 
 **Imperial WIKI** <br />
 https://wiki.imperial.ac.uk/
+
+**Imperial LabTS** <br />
+https://teaching.doc.ic.ac.uk/labts
+
+**Imperial GitLab** <br />
+https://gitlab.doc.ic.ac.uk/
 
 **Events**: Introduction to Health and Safety MSc must be completed to receive the college ID card <br />
 https://events.doc.ic.ac.uk/
