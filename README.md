@@ -37,7 +37,7 @@ https://www.imperial.ac.uk/students/new-students/welcome-season/incoming-postgra
 **WhatsApp Groups** <br />
 https://docs.google.com/document/d/1rhOHfu-7EdammRNkhIX7UwgnOdH3XObB_P6Yzsr-urA/edit
 
-**Microsoft Teams**: Live lectures <br />
+**Microsoft Teams**: live lectures <br />
 https://www.imperial.ac.uk/admin-services/ict/self-service/connect-communicate/office-365/apps/microsoft-teams/
 
 **Piazza**: class discussions (activate your account via the email sent by Piazza Team) <br />
@@ -48,7 +48,7 @@ https://piazza.com/
 https://bb.imperial.ac.uk/
 
 **Personal Timetable** <br />
-Get Your Timetable: https://www.imperial.ac.uk/timetabling/mytimetable/ <br />
+Grab Your Timetable: https://www.imperial.ac.uk/timetabling/mytimetable/ <br />
 Online Timetable: https://www.imperial.ac.uk/timetabling/calendar/ <br />
 
 **Applications of Computing in Industry**: seeking a job <br />
@@ -57,8 +57,13 @@ https://www.imperial.ac.uk/computing/industry/aci/
 **Imperial College Health Centre Online Registration** <br />
 https://www.campusdoctor.co.uk/imperial/reg.html
 
+**Independent Study Option (ISO)** <br />
+https://wiki.imperial.ac.uk/display/docteaching/Independent+Study+Option
+
 **English Training**: listening and speaking courses <br />
 https://www.imperial.ac.uk/academic-english/listening-and-speaking/
+
+
 
 
 
