@@ -19,7 +19,7 @@ https://materials.doc.ic.ac.uk/
 **Panopto**: recordings of lectures <br />
 https://imperial.cloud.panopto.eu/
 
-**Imperial Teams self Recordings** <br />
+**Imperial Teams Self Recordings** <br />
 https://web.microsoftstream.com/studio/videos
 
 **Exams Information**: past examination papers, etc. <br />
