@@ -10,6 +10,12 @@ https://cate.doc.ic.ac.uk/
 **Class Registration**: changing subscription/course levels <br />
 https://dbc.doc.ic.ac.uk/internalreg/
 
+**My Imperial**: informations about student passport, CAS, visa, record and personal details <br />
+https://my.imperial.ac.uk/
+
+**Student Documents** <br />
+https://student-documents.imperial.ac.uk/student
+
 **Teaching Database**: student informations, required courses, etc. <br />
 https://teachdb.doc.ic.ac.uk/
 
